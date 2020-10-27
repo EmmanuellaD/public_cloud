@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T16:19:22.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="0p2TcNsSvbV6M0rvxTiu" version="13.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-27T16:37:32.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="f3R7FY-OTgmG_U91Twci" version="13.8.3" type="github" pages="3">
   <diagram id="lf8uKZScuawOQieSAxtA" name="Machine Learning">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1921" dy="-51" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="586" y="1593.68" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G5-KeW05Pfirsokx7X0A-8" value="" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_apis" parent="1" vertex="1">
-          <mxGeometry x="530" y="1490" width="142" height="125.86" as="geometry" />
+          <mxGeometry x="529" y="1487.82" width="142" height="125.86" as="geometry" />
         </mxCell>
         <mxCell id="G5-KeW05Pfirsokx7X0A-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="G5-KeW05Pfirsokx7X0A-10" target="G5-KeW05Pfirsokx7X0A-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -64,7 +64,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qdrbAbEL_zMtYQVUVWy_" name="William">
-    <mxGraphModel dx="2810" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4033" dy="1357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dpnpSGZeFM1FOCm1JYtS-0" />
         <mxCell id="dpnpSGZeFM1FOCm1JYtS-1" parent="dpnpSGZeFM1FOCm1JYtS-0" />
@@ -289,7 +289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gKJe9KWxSDeWsSfThPKH" name="database">
-    <mxGraphModel dx="1110" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1633" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MDpNiBpKO2U_o0eOuVdl-0" />
         <mxCell id="MDpNiBpKO2U_o0eOuVdl-1" parent="MDpNiBpKO2U_o0eOuVdl-0" />
