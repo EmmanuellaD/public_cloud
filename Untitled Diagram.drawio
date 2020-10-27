@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-27T17:24:23.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="KDXF9tK9SxR6qFVaFytg" version="13.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-27T17:40:21.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="k2DtaUSdeCyFpTt-B4FO" version="13.8.3" type="github" pages="4">
   <diagram id="lf8uKZScuawOQieSAxtA" name="Machine Learning">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="-468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,7 +294,7 @@
         <mxCell id="MDpNiBpKO2U_o0eOuVdl-0" />
         <mxCell id="MDpNiBpKO2U_o0eOuVdl-1" parent="MDpNiBpKO2U_o0eOuVdl-0" />
         <mxCell id="sAGXf2RefOtjzn-Blqwj-23" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
-          <mxGeometry x="193" y="678" width="100" height="60" as="geometry" />
+          <mxGeometry x="195" y="660" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sAGXf2RefOtjzn-Blqwj-24" value="Cloud&#xa;SQL" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_sql;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="sAGXf2RefOtjzn-Blqwj-23">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
@@ -302,9 +302,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sAGXf2RefOtjzn-Blqwj-27" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
-          <mxGeometry x="310" y="600" width="140" height="80" as="geometry" />
+          <mxGeometry x="320" y="560" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sAGXf2RefOtjzn-Blqwj-28" value="DataWarehouse&lt;hr&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;BigQuery&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="sAGXf2RefOtjzn-Blqwj-27">
+        <mxCell id="sAGXf2RefOtjzn-Blqwj-28" value="DataWarehouse&lt;br&gt;(data lakes,&amp;nbsp;&lt;br&gt;data mart)&lt;br&gt;&lt;hr&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;BigQuery&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;spacingLeft=5;fontColor=#999999;fontSize=12;spacingTop=-8;" vertex="1" parent="sAGXf2RefOtjzn-Blqwj-27">
           <mxGeometry width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="7" as="offset" />
           </mxGeometry>
@@ -313,7 +313,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sAGXf2RefOtjzn-Blqwj-32" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
-          <mxGeometry x="188" y="790" width="110" height="60" as="geometry" />
+          <mxGeometry x="188" y="860" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sAGXf2RefOtjzn-Blqwj-33" value="Cloud&#xa;Dataflow" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_dataflow;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="sAGXf2RefOtjzn-Blqwj-32">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
@@ -321,7 +321,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FzZpSygc0yFMgygKdYTM-0" value="" style="group" connectable="0" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
-          <mxGeometry x="188" y="960" width="250" height="60" as="geometry" />
+          <mxGeometry x="60" y="1030" width="282" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FzZpSygc0yFMgygKdYTM-1" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="FzZpSygc0yFMgygKdYTM-0">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -334,7 +334,7 @@
         <mxCell id="5ZQCnyTJOJQpWbXDhUNB-0" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
           <mxGeometry x="20" y="600" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5ZQCnyTJOJQpWbXDhUNB-1" value="&lt;font color=&quot;#000000&quot;&gt;SQL data&lt;br&gt;&lt;/font&gt;Cloud Bigtable" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="5ZQCnyTJOJQpWbXDhUNB-0">
+        <mxCell id="5ZQCnyTJOJQpWbXDhUNB-1" value="Cloud Bigtable&lt;br&gt;SQL database" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="5ZQCnyTJOJQpWbXDhUNB-0">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
@@ -342,11 +342,36 @@
         <mxCell id="5ZQCnyTJOJQpWbXDhUNB-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MDpNiBpKO2U_o0eOuVdl-1" source="FzZpSygc0yFMgygKdYTM-1" target="sAGXf2RefOtjzn-Blqwj-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x8t0VH9SzHRi8-oca3D5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MDpNiBpKO2U_o0eOuVdl-1" source="x8t0VH9SzHRi8-oca3D5-0" target="sAGXf2RefOtjzn-Blqwj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8t0VH9SzHRi8-oca3D5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MDpNiBpKO2U_o0eOuVdl-1" source="x8t0VH9SzHRi8-oca3D5-0" target="sAGXf2RefOtjzn-Blqwj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8t0VH9SzHRi8-oca3D5-0" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
+          <mxGeometry x="370" y="690" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8t0VH9SzHRi8-oca3D5-1" value="&lt;br&gt;Cloud Datalab" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_datalab;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="x8t0VH9SzHRi8-oca3D5-0">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8t0VH9SzHRi8-oca3D5-4" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
+          <mxGeometry x="170" y="760" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x8t0VH9SzHRi8-oca3D5-5" value="&lt;font color=&quot;#000000&quot;&gt;Databases&lt;/font&gt;&lt;br&gt;Cloud Pub/Sub" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_pubsub;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="x8t0VH9SzHRi8-oca3D5-4">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8t0VH9SzHRi8-oca3D5-6" value="Cloud&#xa;Storage" style="html=1;fillColor=#5184F3;strokeColor=none;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_storage" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
+          <mxGeometry x="243" y="950" width="50" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="nJAhVA77bY5fTlSFZKlc" name="DevOps">
-    <mxGraphModel dx="2062" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JD-QRletXDLDD7BXiovl-0" />
         <mxCell id="JD-QRletXDLDD7BXiovl-1" parent="JD-QRletXDLDD7BXiovl-0" />
