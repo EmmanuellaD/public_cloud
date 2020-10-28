@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T01:30:02.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="CO6SwMrwqlFvDt5Phsh6" version="13.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-28T01:39:36.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="aAYmSrs8j8zV4yVmUN8B" version="13.8.5" type="github" pages="7">
   <diagram id="_wl0WwHaKzkO5pxUgSWJ" name="Base Diagram">
-    <mxGraphModel dx="3033" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a7AItx5g36Uws3pTVjAX-0" />
         <mxCell id="a7AItx5g36Uws3pTVjAX-1" parent="a7AItx5g36Uws3pTVjAX-0" />
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lf8uKZScuawOQieSAxtA" name="loic">
-    <mxGraphModel dx="4930" dy="986" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4687" dy="838" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -817,7 +817,7 @@
         <mxCell id="n0e-cmJ6mSroYgBT94Sp-222" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=0;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="-2176" y="184" width="127.27" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n0e-cmJ6mSroYgBT94Sp-223" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Cloud Bigtable&lt;br&gt;&lt;/font&gt;SQL database&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="n0e-cmJ6mSroYgBT94Sp-222">
+        <mxCell id="n0e-cmJ6mSroYgBT94Sp-223" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;font color=&quot;#666666&quot;&gt;Cloud Bigtable&lt;br&gt;&lt;/font&gt;NoSQL&lt;/font&gt;" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="n0e-cmJ6mSroYgBT94Sp-222">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
@@ -825,7 +825,7 @@
         <mxCell id="oAsQjxFbWOfe26JU8qGp-7" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=0;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="-2175" y="243" width="127" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="oAsQjxFbWOfe26JU8qGp-8" value="BigQuery" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="oAsQjxFbWOfe26JU8qGp-7">
+        <mxCell id="oAsQjxFbWOfe26JU8qGp-8" value="&lt;font color=&quot;#666666&quot;&gt;BigQuery&lt;br&gt;&lt;/font&gt;SQL" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=bigquery;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="oAsQjxFbWOfe26JU8qGp-7">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
@@ -1136,7 +1136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gKJe9KWxSDeWsSfThPKH" name="Emma">
-    <mxGraphModel dx="3613" dy="2095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MDpNiBpKO2U_o0eOuVdl-0" />
         <mxCell id="MDpNiBpKO2U_o0eOuVdl-1" parent="MDpNiBpKO2U_o0eOuVdl-0" />
