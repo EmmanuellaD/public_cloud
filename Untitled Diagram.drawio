@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T17:01:24.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="O3nvmrMAd6pVj6X6eBm8" version="13.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-28T17:01:51.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="8TxYo1amtv4QCiPCA5-t" version="13.8.5" type="github" pages="7">
   <diagram id="_wl0WwHaKzkO5pxUgSWJ" name="Base Diagram">
     <mxGraphModel dx="3076" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3933,7 +3933,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lXZ0zm9ZDlsAAbP7rqi8" name="William WIP">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XbdSiShLqTuSbbBS_6iE-0" />
         <mxCell id="XbdSiShLqTuSbbBS_6iE-1" parent="XbdSiShLqTuSbbBS_6iE-0" />
@@ -4608,7 +4608,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k_JJsQFOF1EiF1jWlhmr-11" value="&lt;font style=&quot;font-size: 17px&quot;&gt;STRATO Nodes Blockchain&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="k_JJsQFOF1EiF1jWlhmr-20">
-          <mxGeometry x="102.5" y="-1" width="220" height="20" as="geometry" />
+          <mxGeometry x="102" y="2" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="k_JJsQFOF1EiF1jWlhmr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=11;" edge="1" parent="k_JJsQFOF1EiF1jWlhmr-20" source="k_JJsQFOF1EiF1jWlhmr-13" target="k_JJsQFOF1EiF1jWlhmr-2">
           <mxGeometry relative="1" as="geometry" />
