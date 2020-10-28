@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T00:45:38.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="eUXcVTRHMrrZvpZItTwr" version="13.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-28T00:48:06.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="gurLIY3p7b0exAw60xaJ" version="13.8.5" type="github" pages="7">
   <diagram id="_wl0WwHaKzkO5pxUgSWJ" name="Base Diagram">
-    <mxGraphModel dx="3074" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3099" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a7AItx5g36Uws3pTVjAX-0" />
         <mxCell id="a7AItx5g36Uws3pTVjAX-1" parent="a7AItx5g36Uws3pTVjAX-0" />
@@ -299,7 +299,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lf8uKZScuawOQieSAxtA" name="loic">
-    <mxGraphModel dx="3996" dy="399" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5372" dy="1197" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -799,7 +799,7 @@
         <mxCell id="n0e-cmJ6mSroYgBT94Sp-244" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;fontColor=#B3B3B3;" edge="1" parent="1" source="n0e-cmJ6mSroYgBT94Sp-240" target="n0e-cmJ6mSroYgBT94Sp-217">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n0e-cmJ6mSroYgBT94Sp-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.845;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#007FFF;fontColor=#B3B3B3;" edge="1" parent="1" source="n0e-cmJ6mSroYgBT94Sp-240" target="n0e-cmJ6mSroYgBT94Sp-218">
+        <mxCell id="n0e-cmJ6mSroYgBT94Sp-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.845;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#B3B3B3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#007FFF;" edge="1" parent="1" source="n0e-cmJ6mSroYgBT94Sp-240" target="n0e-cmJ6mSroYgBT94Sp-218">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n0e-cmJ6mSroYgBT94Sp-240" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=0;absoluteArcSize=1;arcSize=2;sketch=0;fontColor=#B3B3B3;align=center;" vertex="1" parent="1">
@@ -831,7 +831,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qdrbAbEL_zMtYQVUVWy_" name="API &amp; IoT">
-    <mxGraphModel dx="3120" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3145" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dpnpSGZeFM1FOCm1JYtS-0" />
         <mxCell id="dpnpSGZeFM1FOCm1JYtS-1" parent="dpnpSGZeFM1FOCm1JYtS-0" />
@@ -1056,7 +1056,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gKJe9KWxSDeWsSfThPKH" name="Emma">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3613" dy="2095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MDpNiBpKO2U_o0eOuVdl-0" />
         <mxCell id="MDpNiBpKO2U_o0eOuVdl-1" parent="MDpNiBpKO2U_o0eOuVdl-0" />
@@ -1429,7 +1429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ubkinLFHYHzKlEJO8UFj" name="Ali">
-    <mxGraphModel dx="1420" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1445" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9NXkvNiEahuyjEGdX6gc-0" />
         <mxCell id="9NXkvNiEahuyjEGdX6gc-1" parent="9NXkvNiEahuyjEGdX6gc-0" />
@@ -1621,7 +1621,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EQuqCs0XkEkbRqZZmvvb" name="Page-6">
-    <mxGraphModel dx="5337" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5372" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jzEFFeNrjC7sEmhN-liY-0" />
         <mxCell id="jzEFFeNrjC7sEmhN-liY-1" parent="jzEFFeNrjC7sEmhN-liY-0" />
@@ -2398,7 +2398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lXZ0zm9ZDlsAAbP7rqi8" name="William WIP">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1700" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XbdSiShLqTuSbbBS_6iE-0" />
         <mxCell id="XbdSiShLqTuSbbBS_6iE-1" parent="XbdSiShLqTuSbbBS_6iE-0" />
