@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T01:56:21.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="rKaWU9AA-OHoGWtK1QM1" version="13.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-28T01:58:56.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="lP2_SO49qQ6mxX5HSXsa" version="13.8.5" type="github" pages="7">
   <diagram id="_wl0WwHaKzkO5pxUgSWJ" name="Base Diagram">
     <mxGraphModel dx="2900" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -911,7 +911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qdrbAbEL_zMtYQVUVWy_" name="API &amp; IoT">
-    <mxGraphModel dx="2971" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dpnpSGZeFM1FOCm1JYtS-0" />
         <mxCell id="dpnpSGZeFM1FOCm1JYtS-1" parent="dpnpSGZeFM1FOCm1JYtS-0" />
@@ -1477,6 +1477,11 @@
         <mxCell id="XxLTEQk8qVkbg5ZqXO9T-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MDpNiBpKO2U_o0eOuVdl-1" source="XxLTEQk8qVkbg5ZqXO9T-75" target="XxLTEQk8qVkbg5ZqXO9T-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LWtPH2EXGkeT2U-EJeTO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MDpNiBpKO2U_o0eOuVdl-1" source="XxLTEQk8qVkbg5ZqXO9T-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="227.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XxLTEQk8qVkbg5ZqXO9T-75" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="MDpNiBpKO2U_o0eOuVdl-1" vertex="1">
           <mxGeometry x="500" y="307.5" width="160" height="60" as="geometry" />
         </mxCell>
@@ -1524,6 +1529,24 @@
         </mxCell>
         <mxCell id="PcuP04EgXj6hrScwZ06H-18" value="dev" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
           <mxGeometry x="965" y="1" width="29" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtPH2EXGkeT2U-EJeTO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MDpNiBpKO2U_o0eOuVdl-1" target="LWtPH2EXGkeT2U-EJeTO-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="167.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWtPH2EXGkeT2U-EJeTO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MDpNiBpKO2U_o0eOuVdl-1" source="LWtPH2EXGkeT2U-EJeTO-3" target="lBGX-TfVjo-hLoS8TIa6-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="577" y="87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWtPH2EXGkeT2U-EJeTO-3" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="MDpNiBpKO2U_o0eOuVdl-1">
+          <mxGeometry x="497" y="167" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtPH2EXGkeT2U-EJeTO-4" value="&lt;font color=&quot;#000000&quot;&gt;Mobile Applcation&lt;/font&gt;Compute Engine" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=compute_engine;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="LWtPH2EXGkeT2U-EJeTO-3">
+          <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
+            <mxPoint x="5" y="-19.5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
