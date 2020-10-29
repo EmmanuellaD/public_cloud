@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T22:51:17.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="zFbRtxjH_NywqwMsQocB" version="13.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-29T12:16:15.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="fBcQ7G46prP3kjpTAfdV" version="13.8.5" type="github" pages="7">
   <diagram id="_wl0WwHaKzkO5pxUgSWJ" name="Base Diagram">
-    <mxGraphModel dx="4024" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2900" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a7AItx5g36Uws3pTVjAX-0" />
         <mxCell id="a7AItx5g36Uws3pTVjAX-1" parent="a7AItx5g36Uws3pTVjAX-0" />
@@ -4154,7 +4154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lXZ0zm9ZDlsAAbP7rqi8" name="William WIP">
-    <mxGraphModel dx="2370" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2314" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XbdSiShLqTuSbbBS_6iE-0" />
         <mxCell id="XbdSiShLqTuSbbBS_6iE-1" parent="XbdSiShLqTuSbbBS_6iE-0" />
@@ -4638,7 +4638,7 @@
         <mxCell id="XbdSiShLqTuSbbBS_6iE-10" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="N1fzDmbX3HQr9TsgkhVE-23" vertex="1">
           <mxGeometry x="444" y="392.50000000000006" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="XbdSiShLqTuSbbBS_6iE-11" value="Cloud Bigtable&lt;br&gt;SQL database" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="XbdSiShLqTuSbbBS_6iE-10" vertex="1">
+        <mxCell id="XbdSiShLqTuSbbBS_6iE-11" value="Cloud Bigtable&lt;br&gt;!SQL database" style="dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.hexIcon;prIcon=cloud_bigtable;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" parent="XbdSiShLqTuSbbBS_6iE-10" vertex="1">
           <mxGeometry y="0.5" width="44" height="39" relative="1" as="geometry">
             <mxPoint x="5" y="-19.5" as="offset" />
           </mxGeometry>
